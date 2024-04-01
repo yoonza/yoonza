@@ -1,7 +1,7 @@
 ## 🐰Yoonza's Github🐰
 
 ⭐️ COMPUTER SOFTWARE ENGINEERING DEGREE<br>
-⭐ FRONTEND DEVELOPER
+⭐ FRONTEND DEVELOPER<br>
 ⭐️ KT AILVE SCHOOL 5TH
 
 
