@@ -4,6 +4,7 @@
 ⭐ FRONTEND DEVELOPER<br>
 ⭐️ KT AILVE SCHOOL 5TH (2023.08.08 ~ 2024.01.25)
 
+#### Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonza&layout=compact)
 
 #### Skills
