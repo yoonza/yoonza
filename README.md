@@ -52,7 +52,6 @@
 <div align="center">
 
 ![Yoonza's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonza&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=yoonza&theme=tokyonight&hide_border=false)
 
 </div>
 
