@@ -2,10 +2,6 @@
 <div align="center">
 
 # 🐰 Yoonza's Github 🐰  
-
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=32&pause=1000&color=F7C04A&center=true&vCenter=true&width=600&lines=Welcome+to+Yoonza's+Github!;Frontend+Developer;Software+Engineer;Always+Learning+🚀" />
-</div>
-
 ---
 
 ## ✨ About Me
