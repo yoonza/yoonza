@@ -3,8 +3,7 @@
 
 # 🐰 Yoonza's Github 🐰  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7C04A&center=true&vCenter=true&width=600&lines=Welcome+to+Yoonza's+Github!;Frontend+Developer;Software+Engineer;Always+Learning+🚀)
-
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=32&pause=1000&color=F7C04A&center=true&vCenter=true&width=600&lines=Welcome+to+Yoonza's+Github!;Frontend+Developer;Software+Engineer;Always+Learning+🚀" />
 </div>
 
 ---
