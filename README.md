@@ -1,7 +1,7 @@
 <!-- 헤더 -->
 <div align="center">
-
-# 🐰 Yoonza's Github 🐰  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hello%20World!&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />Hello, I am Jiyoon.
+</div>
 ---
 
 ## ✨ About Me
