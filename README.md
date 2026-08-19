@@ -52,7 +52,7 @@
 ## 🏅 Certifications
 <div align="center">
 
-** Engineer Information Processing - HRD Korea **
+Engineer Information Processing - HRD Korea
 
 </div>
 
