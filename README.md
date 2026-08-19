@@ -52,7 +52,7 @@
 ## 🏅 Certifications
 <div align="center">
 
-[![Open Badge](https://nlp.netlearning.co.jp/api/v1.0/openbadge/v2/Assertion/b0Z2eDJkQ1piWXRCVllSaldwdE9PZz09/image)](https://nlp.netlearning.co.jp/api/v1.0/openbadge/v2/Assertion/b0Z2eDJkQ1piWXRCVllSaldwdE9PZz09)
+** Engineer Information Processing - HRD Korea **
 
 </div>
 
