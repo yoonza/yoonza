@@ -58,17 +58,3 @@ Engineer Information Processing - HRD Korea
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-![Yoonza's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonza&show_icons=true&theme=tokyonight)  
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yoonza&color=blue&style=flat-square&label=Visitors)
-
-</div>
