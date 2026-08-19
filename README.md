@@ -2,13 +2,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hello,%20I%20am%20Jiyoon.&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
----
 
 ## ✨ About Me
 - 🎓 **Computer Software Engineering Degree**
 - 💻 **Frontend Developer**
 - 📚 **KT Alive School 4th (2023.08.08 ~ 2024.01.25)**
-- 🏭 **DH AutoLead Production Technology Team (2024.05.27 ~ )**
+- 🏭 **DH AutoLead Production Technology Team (2024.05.27 ~ 2026.03.31)**
+- 🏢 **Pulmuone Foods Co., Ltd. Logistics IT Team**
 
 ---
 
