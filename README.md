@@ -7,7 +7,7 @@
 - 🎓 **Computer Software Engineering Degree**
 - 💻 **Security / Infra** 
 - 📚 **KT Alive School 4th (2023.08.08 ~ 2024.01.25)**
-- 🏭 **DH AutoLead Production Technology Team (2024.05.27 ~ 2026.03.31)**
+- 🏭 **DH AutoLead IT Team (2024.05.27 ~ 2026.03.31)**
 - 🏢 **Pulmuone Foods Co., Ltd. Logistics IT Team** (2026.04.06 ~ ing)**
 
 ---
